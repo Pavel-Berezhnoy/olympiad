@@ -1,1 +1,1 @@
-# olympiad
+permalink: /index.php
